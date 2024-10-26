@@ -1,4 +1,4 @@
-# Если в лом качать весь репозиторий, то скачайте лабы, папки. Команды для установки либ.
+# Либы которые нужно установить
 - pip install seaborn
 - pip install matplotlib
 - pip install pandas
